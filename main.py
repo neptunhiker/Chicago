@@ -1,3 +1,5 @@
+# Chicago - the game of three dice!
+
 from game_object import Die, Player, Game
 import random
 
